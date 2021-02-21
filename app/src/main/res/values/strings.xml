@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PetProject</string>
+
+    <string name="bottom_tab_1">Features</string>
+    <string name="bottom_tab_2">Catalog</string>
+    <string name="bottom_tab_3">Notifications</string>
+    <string name="bottom_tab_4">Menu</string>
 </resources>
