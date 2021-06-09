@@ -8,6 +8,6 @@ class PetProjectApplication : Application() {
     override fun onCreate() {
         super.onCreate()
 
-        val appComponent = DaggerApplicationComponent.create()
+//        val appComponent = DaggerApplicationComponent.create()
     }
 }
