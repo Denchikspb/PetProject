@@ -11,10 +11,6 @@
         android:label="fragment_list"
         tools:layout="@layout/fragment_list">
 
-        <action
-            android:id="@+id/action_c_to_a"
-            app:restoreState="true"
-            app:popUpToSaveState="true"/>
     </fragment>
 
 </navigation>

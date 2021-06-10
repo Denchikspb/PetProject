@@ -10,10 +10,7 @@
         android:name="com.example.petproject.MarketFragment"
         android:label="fragment_market"
         tools:layout="@layout/fragment_market">
-        <action
-            android:id="@+id/action_2_to_a"
-            app:restoreState="true"
-            app:popUpToSaveState="true"/>
+
     </fragment>
 
 </navigation>
